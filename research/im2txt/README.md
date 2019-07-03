@@ -114,9 +114,9 @@ approximately 10 times slower.
 ### Install Required Packages
 First ensure that you have installed the following required packages:
 
-* **Bazel** ([instructions](http://bazel.io/docs/install.html))
+* **Bazel** ([instructions](http://bazel.io/docs/install.html)): Release 0.18.0 works, 0.27.0 does not work.
 * **Python 2.7**
-* **TensorFlow** 1.0 or greater ([instructions](https://www.tensorflow.org/install/))
+* **TensorFlow** 1.0 or greater ([instructions](https://www.tensorflow.org/install/)), TF 1.12 works
 * **NumPy** ([instructions](http://www.scipy.org/install.html))
 * **Natural Language Toolkit (NLTK)**:
     * First install NLTK ([instructions](http://www.nltk.org/install.html))
